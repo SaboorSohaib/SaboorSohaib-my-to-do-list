@@ -5,6 +5,7 @@
 }
 
 body {
+  background-color: aliceblue;
   display: flex;
   justify-content: center;
   font-family: 'Times New Roman', Times, serif;
