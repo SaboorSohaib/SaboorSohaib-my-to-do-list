@@ -4,12 +4,9 @@ Basic website that allows users to add/remove his activity to the list.
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 > Awesome-Books Web site.
-## Awesome-Books Web site Project initialization
 
 
 ## Live Demo:
-
-[Live Demo Link](https://saboorsohaib.github.io/my-to-do-list/)
 
  ## Built With
 
