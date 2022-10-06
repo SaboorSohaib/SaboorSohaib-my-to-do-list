@@ -3,11 +3,6 @@ Basic website that allows users to add/remove his activity to the list.
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> Awesome-Books Web site.
-
-
-## Live Demo:
-
  ## Built With
 
 - HTML(HTML-5).
