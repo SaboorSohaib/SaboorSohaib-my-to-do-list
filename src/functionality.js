@@ -1,4 +1,4 @@
-
+/* eslint-disable no-unused-vars */
 const list = document.querySelector('.list');
 
 const taskList = [
@@ -8,7 +8,7 @@ const taskList = [
     index: 0,
   },
   {
-  description: 'Creating new Repo',
+    description: 'Creating new Repo',
     completed: true,
     index: 1,
   },
@@ -29,9 +29,8 @@ function addTask(taskList) {
 }
 addTask(taskList);
 const taskInput = document.querySelector('.add-task');
-const taskList = document.querySelector('.list');
+const taskList1 = document.querySelector('.list');
 const taskArr = [];
- console.log(taskArr);
 const addTaskToUi = (taskArr) => {
   taskArr.forEach((todo) => {
     taskList.innerHTML = `
@@ -43,7 +42,7 @@ const addTaskToUi = (taskArr) => {
   });
 };
 
-const addTask = () => {
+const addTask1 = () => {
   const todo = {
     id: Date.now(),
     description: taskInput.value,

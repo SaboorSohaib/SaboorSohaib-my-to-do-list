@@ -2,6 +2,7 @@ import './style.css';
 
 const list = document.querySelector('.list');
 const toDoInput = document.querySelector('.to-do-input');
+// eslint-disable-next-line no-unused-vars
 const deleteItem = document.querySelector('.delete');
 let listArr = [];
 let id = 0;
