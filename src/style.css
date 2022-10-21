@@ -70,3 +70,36 @@ body {
   cursor: pointer;
   font-size: 14px;
 }
+
+.fa-solid {
+  cursor: pointer;
+}
+
+.fa-ellipsis-vertical {
+  cursor: pointer;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  list-style: none;
+}
+
+.ellipsis {
+  width: 20px;
+  justify-items: center;
+}
+
+.text {
+  width: 100%;
+  padding-left: 10px;
+}
+
+.delete {
+  transition: 0.25s all ease;
+}
+
+.delete:hover {
+  color: red;
+}
